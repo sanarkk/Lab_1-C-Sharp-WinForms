@@ -1,0 +1,17 @@
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\bin\Debug\net6.0-windows\LAB_1.exe
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\bin\Debug\net6.0-windows\LAB_1.deps.json
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\bin\Debug\net6.0-windows\LAB_1.runtimeconfig.json
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\bin\Debug\net6.0-windows\LAB_1.dll
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\bin\Debug\net6.0-windows\ref\LAB_1.dll
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\bin\Debug\net6.0-windows\LAB_1.pdb
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.AssemblyReference.cache
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.Form1.resources
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.GenerateResource.cache
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.AssemblyInfoInputs.cache
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.AssemblyInfo.cs
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.dll
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\ref\LAB_1.dll
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.pdb
+C:\Users\sanarkk\source\repos\LAB_1\LAB_1\obj\Debug\net6.0-windows\LAB_1.genruntimeconfig.cache
